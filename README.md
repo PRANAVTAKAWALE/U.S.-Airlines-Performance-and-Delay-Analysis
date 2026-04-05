@@ -81,7 +81,7 @@ Flights + Airlines + Airports
 Created a unified analytical dataset.
 
 5. Features / Highlights
-🔴 Business Problem
+Business Problem
 
 Flight delays and cancellations:
 
@@ -95,13 +95,15 @@ Which airlines perform best?
 What causes most delays?
 Which airports face highest delays?
 How performance changes over time?
-🎯 Goal of the Dashboard
+
+Goal of the Dashboard :
 Provide a centralized analytics platform
 Compare airline performance
 Analyze delay & cancellation patterns
 Identify key operational bottlenecks
 Support data-driven decisions
-📊 Walkthrough of Key Visuals
+
+Walkthrough of Key Visuals :
 🔹 Key KPIs (Top Section)
 Total Flights: 5.82M
 OTP Rate: 82.4%
@@ -109,8 +111,7 @@ Avg Arrival Delay: 12.09 mins
 Avg Departure Delay: 12.11 mins
 Cancelled Flights: 89.88K
 Cancellation Rate: 1.54%
-
-👉 Provides a quick snapshot of overall performance.
+Provides a quick snapshot of overall performance.
 
 🔹 Cancellation Analysis
 Weather is the leading cause (~49K cancellations)
@@ -118,14 +119,13 @@ Followed by:
 Airline issues
 Air system delays
 Security (minimal impact)
-
-👉 Helps identify major disruption factors
+Helps identify major disruption factors
 
 🔹 Airline Performance
 OTP comparison across airlines
 Average delay by airline
 
-👉 Helps identify:
+Helps identify:
 
 Best performing airlines
 Worst delay contributors
@@ -139,13 +139,13 @@ Air system delay
 Late aircraft delay
 Security delay
 
-👉 Shows percentage contribution of each delay type
+Shows percentage contribution of each delay type
 
 🔹 Monthly Trends
 OTP rate by month
 Total flights per month
 
-👉 Helps understand:
+Helps understand:
 
 Seasonal performance trends
 Peak operational months
@@ -153,7 +153,7 @@ Peak operational months
 Avg arrival delay by airport
 OTP rate by airport
 
-👉 Identifies:
+Identifies:
 
 High-delay airports
 Best-performing airports
@@ -164,23 +164,25 @@ Airline Code
 Origin Airport
 Destination Airport
 
-👉 Enables interactive analysis
+Enables interactive analysis
 
-💡 Business Impact & Insights
-📈 Key Insights
+Business Impact & Insights :
+Key Insights
 Weather is the biggest cause of cancellations
 OTP rate is above 80%, indicating stable performance
 Some airlines consistently perform better than others
 Certain airports show higher delay patterns
 Slight fluctuations in OTP across months
-🧠 Strategic Insights
+
+Strategic Insights
 Airlines can:
 Improve operational planning
 Optimize aircraft scheduling
 Airports can:
 Reduce congestion
 Improve infrastructure
-📊 Decision Support
+
+Decision Support
 Useful for:
 Airline management
 Airport authorities
