@@ -1,4 +1,4 @@
-#✈️ U.S. Airline Performance & Delay Analysis Dashboard
+✈️ U.S. Airline Performance & Delay Analysis Dashboard
 1. Project Title / Headline
 
 U.S. Airline Performance Dashboard: Comprehensive Flight Delay & Operational Insights
