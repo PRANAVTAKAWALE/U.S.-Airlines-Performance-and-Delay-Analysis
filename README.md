@@ -190,8 +190,6 @@ Key Insights
 - Certain airports show higher delay patterns  
 - Slight fluctuations in OTP across months  
 
----
-
 ### Strategic Insights  
 - Airlines can:  
 - Improve operational planning  
@@ -209,3 +207,5 @@ Enables:
 ---
 
 ## 7.Dashboard Preview
+<img width="1286" height="716" alt="U S  Airline Overview" src="https://github.com/user-attachments/assets/63399990-b314-401f-9977-975ab86130c6" />
+
