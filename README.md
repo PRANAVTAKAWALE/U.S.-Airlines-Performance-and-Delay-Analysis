@@ -1,11 +1,11 @@
 # ✈️ U.S. Airline Performance & Delay Analysis Dashboard
 ## 1. Project Title / Headline
 
-U.S. Airline Performance Dashboard: Comprehensive Flight Delay & Operational Insights
+U.S. Airline Performance Dashboard: Comprehensive Flight Delay & Operational Insights  
 
-An interactive aviation analytics dashboard built using Power BI to analyze U.S. domestic flight data, uncovering patterns in delays, cancellations, airline efficiency, and airport performance.
+An interactive aviation analytics dashboard built using Power BI to analyze U.S. domestic flight data, uncovering patterns in delays, cancellations, airline   efficiency, and airport performance.
 
-## 2. Short Description / Purpose
+## 2. Short Description / Purpose  
 
 The U.S. Airline Performance Dashboard is a data analytics project designed to explore and visualize large-scale flight data across the United States.
 
@@ -141,55 +141,56 @@ Security delay
 
 Shows percentage contribution of each delay type
 
-🔹 Monthly Trends
-OTP rate by month
-Total flights per month
+🔹 Monthly Trends  
+OTP rate by month  
+Total flights per month  
 
-Helps understand:
+Helps understand:  
+Seasonal performance trends  
+Peak operational months  
 
-Seasonal performance trends
-Peak operational months
-🔹 Airport Performance
-Avg arrival delay by airport
-OTP rate by airport
+🔹 Airport Performance  
+Avg arrival delay by airport  
+OTP rate by airport  
 
 Identifies:
-
 High-delay airports
 Best-performing airports
-🔹 Filters / Slicers
-Month
-Airline Name
-Airline Code
-Origin Airport
-Destination Airport
 
-Enables interactive analysis
+🔹 Filters / Slicers  
+Month  
+Airline Name  
+Airline Code  
+Origin Airport  
+Destination Airport  
 
-Business Impact & Insights :
-Key Insights
-Weather is the biggest cause of cancellations
-OTP rate is above 80%, indicating stable performance
-Some airlines consistently perform better than others
-Certain airports show higher delay patterns
-Slight fluctuations in OTP across months
+Enables interactive analysis  
 
-Strategic Insights
-Airlines can:
-Improve operational planning
-Optimize aircraft scheduling
-Airports can:
-Reduce congestion
-Improve infrastructure
+Business Impact & Insights :  
+Key Insights  
+Weather is the biggest cause of cancellations  
+OTP rate is above 80%, indicating stable performance  
+Some airlines consistently perform better than others  
+Certain airports show higher delay patterns  
+Slight fluctuations in OTP across months  
 
+Strategic Insights  
+Airlines can:  
+Improve operational planning  
+Optimize aircraft scheduling  
+Airports can:  
+Reduce congestion  
+Improve infrastructure  
 Decision Support
-Useful for:
-Airline management
-Airport authorities
-Aviation analysts
-Enables:
-Performance benchmarking
-Operational improvements
-Better passenger experience
+
+Useful for:  
+Airline management  
+Airport authorities   
+Aviation analysts  
+
+Enables:  
+Performance benchmarking  
+Operational improvements  
+Better passenger experience  
 
 Dashboard Preview
