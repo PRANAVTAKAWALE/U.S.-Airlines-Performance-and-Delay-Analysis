@@ -103,7 +103,7 @@ Analyze delay & cancellation patterns
 Identify key operational bottlenecks
 Support data-driven decisions
 
-Walkthrough of Key Visuals :
+Walkthrough of Key Visuals :  
 🔹 Key KPIs (Top Section)
 Total Flights: 5.82M
 OTP Rate: 82.4%
