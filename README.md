@@ -21,13 +21,13 @@ This dashboard enables data-driven decision-making in aviation analytics and imp
 
 The dashboard was built using the following tools and technologies:
 
-Microsoft SQL Server – Used for handling large-scale data (~5.2M records), data cleaning, transformation, and integration
-SQL (T-SQL) – Advanced querying, joins, aggregations, and KPI preparation
-Power BI Desktop – Data visualization and dashboard development
-Power Query – Minor transformations and data loading
-DAX (Data Analysis Expressions) – KPI calculations (OTP rate, delays, cancellation rate)
-Data Modeling – Relationships between flights, airlines, and airports
-Data Source Format – CSV files (flights, airlines, airports)
+Microsoft SQL Server – Used for handling large-scale data (~5.2M records), data cleaning, transformation, and integration.  
+SQL (T-SQL) – Advanced querying, joins, aggregations, and KPI preparation.  
+Power BI Desktop – Data visualization and dashboard development.  
+Power Query – Minor transformations and data loading.  
+DAX (Data Analysis Expressions) – KPI calculations (OTP rate, delays, cancellation rate).  
+Data Modeling – Relationships between flights, airlines, and airports.  
+Data Source Format – CSV files (flights, airlines, airports).  
 Dashboard Output – .pbix file and dashboard screenshots.
 
 ## 4. Data Source
