@@ -88,7 +88,8 @@ D → Security
 ---
 
 ## 6. Features / Highlights
-Business Problem :  
+
+### Business Problem :  
 Flight delays and cancellations:  
 Impact passenger experience
 Increase operational costs
@@ -100,14 +101,14 @@ What causes most delays?
 Which airports face highest delays?  
 How performance changes over time?  
 
-Goal of the Dashboard :  
+### Goal of the Dashboard :  
 Provide a centralized analytics platform  
 Compare airline performance  
 Analyze delay & cancellation patterns  
 Identify key operational bottlenecks  
 Support data-driven decisions  
 
-Walkthrough of Key Visuals :  
+### Walkthrough of Key Visuals :  
 
 🔹 Key KPIs (Top Section)  
 Total Flights: 5.82M  
