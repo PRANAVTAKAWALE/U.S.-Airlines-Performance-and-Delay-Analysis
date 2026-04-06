@@ -1,7 +1,7 @@
 # ✈️ U.S. Airline Performance & Delay Analysis Dashboard
 ## 1. Project Title / Headline
 
-**U.S. Airline Performance Dashboard: Comprehensive Flight Delay & Operational Insights  
+**U.S. Airline Performance Dashboard: Comprehensive Flight Delay & Operational Insights**  
 
 An interactive aviation analytics dashboard built using Power BI to analyze U.S. domestic flight data, uncovering patterns in delays, cancellations, airline   efficiency, and airport performance.
 
