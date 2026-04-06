@@ -5,6 +5,8 @@
 
 An interactive aviation analytics dashboard built using Power BI to analyze U.S. domestic flight data, uncovering patterns in delays, cancellations, airline   efficiency, and airport performance.
 
+---
+
 ## 2. Short Description / Purpose  
 
 The U.S. Airline Performance Dashboard is a data analytics project designed to explore and visualize large-scale flight data across the United States.
