@@ -108,7 +108,7 @@ Analyze delay & cancellation patterns
 Identify key operational bottlenecks  
 Support data-driven decisions  
 
---
+---
 
 ### Walkthrough of Key Visuals :  
 
@@ -121,6 +121,8 @@ Support data-driven decisions
 - Cancellation Rate: 1.54%  
 - Provides a quick snapshot of overall performance.  
 
+---
+
 #### Cancellation Analysis :    
 - Weather is the leading cause (~49K cancellations)  
 Followed by:  
@@ -129,12 +131,16 @@ Followed by:
 - Security (minimal impact)  
 - Helps identify major disruption factors  
 
+---
+
 #### Airline Performance :   
 - OTP comparison across airlines  
 - Average delay by airline  
 - Helps identify:  
 - Best performing airlines  
 - Worst delay contributors  
+
+---
 
 #### Delay Distribution (Donut Chart) :   
 - Breakdown of delay causes:  
@@ -146,6 +152,8 @@ Followed by:
 
 Shows percentage contribution of each delay type
 
+---
+
 #### Monthly Trends :  
 - OTP rate by month  
 - Total flights per month  
@@ -153,12 +161,16 @@ Shows percentage contribution of each delay type
 - Seasonal performance trends  
 - Peak operational months  
 
+---
+
 #### Airport Performance :  
 - Avg arrival delay by airport  
 - OTP rate by airport  
 - Identifies:
 - High-delay airports
 - Best-performing airports
+
+---
 
 #### Filters / Slicers :   
 - Month  
@@ -168,6 +180,8 @@ Shows percentage contribution of each delay type
 - Destination Airport  
 Enables interactive analysis.    
 
+---
+
 ### Business Impact & Insights :  
 Key Insights  
 - Weather is the biggest cause of cancellations  
@@ -175,6 +189,8 @@ Key Insights
 - Some airlines consistently perform better than others  
 - Certain airports show higher delay patterns  
 - Slight fluctuations in OTP across months  
+
+---
 
 ### Strategic Insights  
 - Airlines can:  
