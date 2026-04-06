@@ -104,40 +104,41 @@ Identify key operational bottlenecks
 Support data-driven decisions
 
 Walkthrough of Key Visuals :  
-🔹 Key KPIs (Top Section)
-Total Flights: 5.82M
-OTP Rate: 82.4%
-Avg Arrival Delay: 12.09 mins
-Avg Departure Delay: 12.11 mins
-Cancelled Flights: 89.88K
-Cancellation Rate: 1.54%
-Provides a quick snapshot of overall performance.
+🔹 Key KPIs (Top Section)  
+Total Flights: 5.82M  
+OTP Rate: 82.4%  
+Avg Arrival Delay: 12.09 mins  
+Avg Departure Delay: 12.11 mins  
+Cancelled Flights: 89.88K  
+Cancellation Rate: 1.54%  
+Provides a quick snapshot of overall performance.  
 
-🔹 Cancellation Analysis
-Weather is the leading cause (~49K cancellations)
-Followed by:
-Airline issues
-Air system delays
-Security (minimal impact)
-Helps identify major disruption factors
+🔹 Cancellation Analysis  
+Weather is the leading cause (~49K cancellations)  
+Followed by:  
+Airline issues  
+Air system delays  
+Security (minimal impact)  
+Helps identify major disruption factors  
 
-🔹 Airline Performance
-OTP comparison across airlines
-Average delay by airline
+🔹 Airline Performance  
+OTP comparison across airlines  
+Average delay by airline  
 
-Helps identify:
+Helps identify:  
 
-Best performing airlines
-Worst delay contributors
-🔹 Delay Distribution (Donut Chart)
+Best performing airlines  
+Worst delay contributors  
 
-Breakdown of delay causes:
+🔹 Delay Distribution (Donut Chart)  
 
-Airline delay
-Weather delay
-Air system delay
-Late aircraft delay
-Security delay
+Breakdown of delay causes:  
+
+Airline delay  
+Weather delay  
+Air system delay  
+Late aircraft delay  
+Security delay  
 
 Shows percentage contribution of each delay type
 
