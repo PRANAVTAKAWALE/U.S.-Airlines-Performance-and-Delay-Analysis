@@ -5,7 +5,7 @@ U.S. Airline Performance Dashboard: Comprehensive Flight Delay & Operational Ins
 
 An interactive aviation analytics dashboard built using Power BI to analyze U.S. domestic flight data, uncovering patterns in delays, cancellations, airline efficiency, and airport performance.
 
-2. Short Description / Purpose
+## 2. Short Description / Purpose
 
 The U.S. Airline Performance Dashboard is a data analytics project designed to explore and visualize large-scale flight data across the United States.
 
@@ -17,7 +17,7 @@ Analyze monthly trends and operational efficiency
 
 This dashboard enables data-driven decision-making in aviation analytics and improves understanding of real-world transportation challenges.
 
-3. Tech Stack 
+## 3. Tech Stack 
 
 The dashboard was built using the following tools and technologies:
 
@@ -30,7 +30,7 @@ Data Modeling – Relationships between flights, airlines, and airports
 Data Source Format – CSV files (flights, airlines, airports)
 Dashboard Output – .pbix file and dashboard screenshots.
 
-4. Data Source
+## 4. Data Source
 
 Source: U.S. Flight Delay & Cancellation Dataset (2015)
 
@@ -51,7 +51,7 @@ Air System Delay
 Security Delay
 Late Aircraft Delay
 
-Data Processing & Preparation
+## 5.Data Processing & Preparation
 
 Due to the large dataset size (5.2+ million records), preprocessing was performed in Microsoft SQL Server to ensure efficiency and scalability.
 
@@ -80,7 +80,7 @@ Joined multiple tables:
 Flights + Airlines + Airports
 Created a unified analytical dataset.
 
-5. Features / Highlights
+## 6. Features / Highlights
 Business Problem
 
 Flight delays and cancellations:
