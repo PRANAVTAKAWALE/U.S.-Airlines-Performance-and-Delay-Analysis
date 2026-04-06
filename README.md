@@ -110,31 +110,31 @@ Support data-driven decisions
 
 ### Walkthrough of Key Visuals :  
 
-Key KPIs (Top Section) :    
-Total Flights: 5.82M  
-OTP Rate: 82.4%  
-Avg Arrival Delay: 12.09 mins  
-Avg Departure Delay: 12.11 mins  
-Cancelled Flights: 89.88K  
-Cancellation Rate: 1.54%  
-Provides a quick snapshot of overall performance.  
+#### Key KPIs (Top Section) :    
+- Total Flights: 5.82M  
+- OTP Rate: 82.4%  
+- Avg Arrival Delay: 12.09 mins  
+- Avg Departure Delay: 12.11 mins  
+- Cancelled Flights: 89.88K  
+- Cancellation Rate: 1.54%  
+- Provides a quick snapshot of overall performance.  
 
-Cancellation Analysis :    
-Weather is the leading cause (~49K cancellations)  
+#### Cancellation Analysis :    
+- Weather is the leading cause (~49K cancellations)  
 Followed by:  
-Airline issues  
-Air system delays  
-Security (minimal impact)  
-Helps identify major disruption factors  
+- Airline issues  
+- Air system delays  
+- Security (minimal impact)  
+- Helps identify major disruption factors  
 
-Airline Performance :   
-OTP comparison across airlines  
-Average delay by airline  
-Helps identify:  
-Best performing airlines  
-Worst delay contributors  
+#### Airline Performance :   
+- OTP comparison across airlines  
+- Average delay by airline  
+- Helps identify:  
+- Best performing airlines  
+- Worst delay contributors  
 
-Delay Distribution (Donut Chart) :   
+#### Delay Distribution (Donut Chart) :   
 - Breakdown of delay causes:  
 - Airline delay  
 - Weather delay  
@@ -144,21 +144,21 @@ Delay Distribution (Donut Chart) :
 
 Shows percentage contribution of each delay type
 
-Monthly Trends :  
+#### Monthly Trends :  
 - OTP rate by month  
 - Total flights per month  
 - Helps understand:  
 - Seasonal performance trends  
 - Peak operational months  
 
-Airport Performance :  
+#### Airport Performance :  
 - Avg arrival delay by airport  
 - OTP rate by airport  
 - Identifies:
 - High-delay airports
 - Best-performing airports
 
-Filters / Slicers :   
+#### Filters / Slicers :   
 - Month  
 - Airline Name  
 - Airline Code  
