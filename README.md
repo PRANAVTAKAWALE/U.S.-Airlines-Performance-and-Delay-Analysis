@@ -8,9 +8,7 @@ An interactive aviation analytics dashboard built using Power BI to analyze U.S.
 ## 2. Short Description / Purpose  
 
 The U.S. Airline Performance Dashboard is a data analytics project designed to explore and visualize large-scale flight data across the United States.
-
 It helps users:
-
 Understand flight delays and cancellations
 Evaluate airline and airport performance
 Analyze monthly trends and operational efficiency
@@ -55,53 +53,50 @@ Late Aircraft Delay
 
 Due to the large dataset size (5.2+ million records), preprocessing was performed in Microsoft SQL Server to ensure efficiency and scalability.
 
-Key Steps Performed:
-1. Data Import
-Imported CSV files into SQL Server tables:
-Flights
-Airlines
-Airports
-2. Data Cleaning
-Handled NULL values in delay columns
-Cleaned inconsistent and missing records
+Key Steps Performed:  
+1. Data Import  
+Imported CSV files into SQL Server tables:  
+Flights  
+Airlines  
+Airports  
+
+2. Data Cleaning  
+Handled NULL values in delay columns  
+Cleaned inconsistent and missing records  
 Standardized column formats
-3. Date & Time Transformation
-Converted raw time fields (HHMM format) into proper DATETIME
-Created new column:
+ 
+3. Date & Time Transformation  
+Converted raw time fields (HHMM format) into proper DATETIME  
+Created new column:   
 FLIGHT_DATE for time-based analysis
-4. Data Enrichment
-Mapped cancellation codes to readable values:
-A → Airline
-B → Weather
-C → Air System
+
+4. Data Enrichment  
+Mapped cancellation codes to readable values:  
+A → Airline  
+B → Weather    
+C → Air System  
 D → Security
-5. Data Integration
-Joined multiple tables:
-Flights + Airlines + Airports
-Created a unified analytical dataset.
-
+  
 ## 6. Features / Highlights
-Business Problem
+Business Problem  
 
-Flight delays and cancellations:
-
+Flight delays and cancellations:  
 Impact passenger experience
 Increase operational costs
 Affect airline reputation
 
-Raw data makes it difficult to answer:
+Raw data makes it difficult to answer:  
+Which airlines perform best?  
+What causes most delays?  
+Which airports face highest delays?  
+How performance changes over time?  
 
-Which airlines perform best?
-What causes most delays?
-Which airports face highest delays?
-How performance changes over time?
-
-Goal of the Dashboard :
-Provide a centralized analytics platform
-Compare airline performance
-Analyze delay & cancellation patterns
-Identify key operational bottlenecks
-Support data-driven decisions
+Goal of the Dashboard :  
+Provide a centralized analytics platform  
+Compare airline performance  
+Analyze delay & cancellation patterns  
+Identify key operational bottlenecks  
+Support data-driven decisions  
 
 Walkthrough of Key Visuals :  
 🔹 Key KPIs (Top Section)  
