@@ -164,10 +164,9 @@ Airline Name
 Airline Code  
 Origin Airport  
 Destination Airport  
+Enables interactive analysis.    
 
-Enables interactive analysis  
-
-Business Impact & Insights :  
+### Business Impact & Insights :  
 Key Insights  
 Weather is the biggest cause of cancellations  
 OTP rate is above 80%, indicating stable performance  
@@ -175,7 +174,7 @@ Some airlines consistently perform better than others
 Certain airports show higher delay patterns  
 Slight fluctuations in OTP across months  
 
-Strategic Insights  
+### Strategic Insights  
 Airlines can:  
 Improve operational planning  
 Optimize aircraft scheduling  
@@ -184,14 +183,11 @@ Reduce congestion
 Improve infrastructure  
 Decision Support
 
-Useful for:  
-Airline management  
-Airport authorities   
-Aviation analysts  
-
 Enables:  
 Performance benchmarking  
 Operational improvements  
 Better passenger experience  
 
-Dashboard Preview
+---
+
+## 7.Dashboard Preview
