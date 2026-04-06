@@ -17,6 +17,8 @@ Analyze monthly trends and operational efficiency
 
 This dashboard enables data-driven decision-making in aviation analytics and improves understanding of real-world transportation challenges.
 
+---
+
 ## 3. Tech Stack 
 
 The dashboard was built using the following tools and technologies:
@@ -29,6 +31,8 @@ DAX (Data Analysis Expressions) – KPI calculations (OTP rate, delays, cancella
 Data Modeling – Relationships between flights, airlines, and airports.  
 Data Source Format – CSV files (flights, airlines, airports).  
 Dashboard Output – .pbix file and dashboard screenshots.
+
+---
 
 ## 4. Data Source
 
@@ -50,6 +54,8 @@ Airline Delay
 Air System Delay
 Security Delay
 Late Aircraft Delay
+
+---
 
 ## 5.Data Processing & Preparation
 
@@ -78,10 +84,11 @@ A → Airline
 B → Weather    
 C → Air System  
 D → Security
-  
-## 6. Features / Highlights
-Business Problem  
 
+---
+
+## 6. Features / Highlights
+Business Problem :  
 Flight delays and cancellations:  
 Impact passenger experience
 Increase operational costs
@@ -101,6 +108,7 @@ Identify key operational bottlenecks
 Support data-driven decisions  
 
 Walkthrough of Key Visuals :  
+
 🔹 Key KPIs (Top Section)  
 Total Flights: 5.82M  
 OTP Rate: 82.4%  
@@ -121,16 +129,12 @@ Helps identify major disruption factors
 🔹 Airline Performance  
 OTP comparison across airlines  
 Average delay by airline  
-
 Helps identify:  
-
 Best performing airlines  
 Worst delay contributors  
 
 🔹 Delay Distribution (Donut Chart)  
-
 Breakdown of delay causes:  
-
 Airline delay  
 Weather delay  
 Air system delay  
@@ -142,7 +146,6 @@ Shows percentage contribution of each delay type
 🔹 Monthly Trends  
 OTP rate by month  
 Total flights per month  
-
 Helps understand:  
 Seasonal performance trends  
 Peak operational months  
@@ -150,7 +153,6 @@ Peak operational months
 🔹 Airport Performance  
 Avg arrival delay by airport  
 OTP rate by airport  
-
 Identifies:
 High-delay airports
 Best-performing airports
